@@ -1,0 +1,106 @@
+[
+  {
+    "name": "iphone",
+    "price": 154,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone10",
+    "price": 1154,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "watch",
+    "price": 203,
+    "company": "apple"
+  },
+  {
+    "name": "watch10",
+    "price": 343,
+    "company": "apple"
+  },
+  {
+    "name": "s20",
+    "price": 543,
+    "company": "samsung"
+  },
+  {
+    "name": "dell gaming",
+    "price": 501,
+    "company": "dell"
+  },
+  {
+    "name": "mi20",
+    "price": 154,
+    "company": "mi"
+  },
+  {
+    "name": "s11",
+    "price": 233,
+    "company": "samsung"
+  },
+  {
+    "name": "dell d2",
+    "price": 232,
+    "company": "dell"
+  },
+  {
+    "name": "mi12",
+    "price": 543,
+    "company": "mi"
+  },
+  {
+    "name": "iphone12",
+    "price": 744,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone10",
+    "price": 664,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "watch5",
+    "price": 203,
+    "company": "apple"
+  },
+  {
+    "name": "watch10",
+    "price": 123,
+    "company": "samsung"
+  },
+  {
+    "name": "M20",
+    "price": 343,
+    "company": "samsung"
+  },
+  {
+    "name": "dell Coding",
+    "price": 901,
+    "company": "dell"
+  },
+  {
+    "name": "watchmi2",
+    "price": 154,
+    "company": "mi"
+  },
+  {
+    "name": "M11",
+    "price": 233,
+    "company": "samsung"
+  },
+  {
+    "name": "dell watch",
+    "price": 322,
+    "company": "dell"
+  },
+  {
+    "name": "mi2",
+    "price": 593,
+    "company": "mi"
+  }
+]
